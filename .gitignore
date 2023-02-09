@@ -1,0 +1,5 @@
+training_checkpoints/*
+results/*
+tf/*
+.vs/*
+.venv/*
